@@ -1,0 +1,9 @@
+DateTime==4.3
+glob2==0.7
+numpy==1.19.0
+pandas==1.0.5
+pypandoc==1.5
+python-dateutil==2.8.1
+pytz==2020.1
+six==1.15.0
+zope.interface==5.1.0
